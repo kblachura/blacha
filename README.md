@@ -1,0 +1,4 @@
+== README
+
+RoR application.
+
